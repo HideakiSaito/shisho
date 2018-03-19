@@ -5502,3 +5502,7 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extens
 2017-12-06T01:56:38: Deleting 2 files
 2017-12-06T01:56:38: Deleting "c:\users\hidep\source\repos\BottleWebProject1\BottleWebProject1\env\.ptvs\_dummy_threading.idb"
 2017-12-06T01:56:38: Deleting "c:\users\hidep\source\repos\BottleWebProject1\BottleWebProject1\env\.ptvs\_dummy__threading_local.idb"
+
+2018-03-19T00:15:13: Start analysis
+2018-03-19T00:15:13: IncludeModulesFromModulePath = win32com
+2018-03-19T00:15:15: Deleting 0 files
